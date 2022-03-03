@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db64c56c-8424-4e77-be34-45fa65dc7d4c": {
+      "ProjectGuid": "db64c56c-8424-4e77-be34-45fa65dc7d4c",
+      "DisplayName": "EventHubLogger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
